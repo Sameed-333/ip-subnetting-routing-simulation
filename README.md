@@ -57,12 +57,11 @@ Subnetting splits a larger IP block into smaller, manageable segments. A router 
 
 ## 📸 Screenshots
 
-- Network Topology  
-  ![Topology](assets/screenshots/topology.png)  
-- Router0 Configuration  
-  ![R1 Config](assets/screenshots/r1-config.png)  
-- Router1 Configuration  
-  ![R2 Config](assets/screenshots/r2-config.png)  
+<p float="left">
+  <img src="assets/screenshots/topology.png" width="32%" />
+  <img src="assets/screenshots/r1-config.png" width="32%" />
+  <img src="assets/screenshots/r2-config.png" width="32%" />
+</p>
 
 ---
 
@@ -86,7 +85,7 @@ Subnetting splits a larger IP block into smaller, manageable segments. A router 
     - Use ping between devices to test reachability.
 5.  **Review the Report:**
     - Open the report file at:
-      ![Subnetting-Report](report/Subnetting-Report.pdf)
+      **[Subnetting-Report](report/Subnetting-Report.pdf)**
 
 ---
 
