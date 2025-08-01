@@ -85,7 +85,7 @@ Subnetting splits a larger IP block into smaller, manageable segments. A router 
     - Use ping between devices to test reachability.
 5.  **Review the Report:**
     - Open the report file at:
-      **[Subnetting-Report](Report/Subnetting-Report.pdf)**
+      **[Subnetting-Report](report/Subnetting-Report.pdf)**
 
 ---
 
